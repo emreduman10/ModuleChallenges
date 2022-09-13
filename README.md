@@ -1,11 +1,11 @@
 # This is a test
 
-![NU-logo](https://images.app.goo.gl/WyE8HsAouB5MW66u6)
+![NU-logo](https://1000logos.net/wp-content/uploads/2021/07/Northwestern-Wildcats-Logo.png)
 
 ## Second header
-[CNN]: <https://www.cnn.com/>
+[CNN]<https://www.cnn.com/>
 
 
 ### Third hearder
-[espn]: <https://www.espn.com/watch/>
+[espn]<https://www.espn.com/watch/>
 
